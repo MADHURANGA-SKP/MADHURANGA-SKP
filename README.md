@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/madhuranga_skp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhuranga_skp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhurangaskp333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhurangaskp333" height="30" width="40" /></a>
-<a href="https://instagram.com/_pasan_c99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pasan_c99" height="30" width="40" /></a>
+<a href="https://instagram.com/pasan_madhuranga99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasan_madhuranga99" height="30" width="40" /></a>
 <a href="https://medium.com/pasanmadhuranga333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pasanmadhuranga333" height="30" width="40" /></a>
 </p>
 
