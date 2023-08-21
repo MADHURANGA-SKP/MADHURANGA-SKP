@@ -31,7 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhuranga3skp&show_icons=true&locale=en&layout=compact" alt="madhuranga3skp" /></p>
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ISE-EXPLORELOGY/ISE-EXPLORELOGY/output/snake.svg" alt="Snake animation" />
 
