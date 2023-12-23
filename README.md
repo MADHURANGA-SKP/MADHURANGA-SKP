@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/madhuranga_skp" target="blank"><img src="https://img.shields.io/twitter/follow/madhuranga_skp?logo=twitter&style=for-the-badge" alt="madhuranga_skp" /></a> </p>
 
-- 🔭 I’m currently working on [Full_Stack Booking App](https://github.com/MADHURANGA-SKP/bookingApp-API)
+- 🔭 I’m recently completed [Full_Stack Booking App](https://github.com/MADHURANGA-SKP/bookingApp-API)
 
-- 🌱 I’m currently learning **Node.js / Mern / MongoDB / Flutter**
+- 🌱 I’m currently learning **Node.js / Mern / MongoDB / Laravel / Flutter**
 
 - 🤝 I’m looking for help with [Laravel-Quiz-App](https://github.com/MADHURANGA-SKP/Laravel-Quiz-App)
 
