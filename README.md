@@ -9,7 +9,7 @@
 
 - 🔭 I’m recently completed [Full_Stack Booking App](https://github.com/MADHURANGA-SKP/bookingApp-Client)
 
-- 🌱 I’m currently learning **Node.js / Mern / MongoDB / Laravel / Flutter**
+- 🌱 I’m currently learning **Go Lang**
 
 - 🤝 I’m looking for help with [Laravel-Quiz-App](https://github.com/MADHURANGA-SKP/Laravel-Quiz-App)
 
