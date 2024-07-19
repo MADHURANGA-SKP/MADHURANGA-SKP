@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/madhuranga_skp" target="blank"><img src="https://img.shields.io/twitter/follow/madhuranga_skp?logo=twitter&style=for-the-badge" alt="madhuranga_skp" /></a> </p>
 
-- 🔭 I’m recently completed [Full_Stack Booking App](https://github.com/MADHURANGA-SKP/bookingApp-Client)
+- 🔭 I’m recently completed [Learning Management System with go lang]()
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **Go Lang/Blockchain Development/Solidity**
 
-- 🤝 I’m looking for help with [Laravel-Quiz-App](https://github.com/MADHURANGA-SKP/Laravel-Quiz-App)
+- 🤝 I’m looking for help with [Smart Contract Development]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/MADHURANGA-SKP/Per-portfolio](https://github.com/MADHURANGA-SKP/Per-portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@pasanmadhuranga333](https://medium.com/@pasanmadhuranga333)
+- 📝 I regularly write articles on [www.linkedin.com/in/madhurangaskp333](www.linkedin.com/in/madhurangaskp333)
 
-- 💬 Ask me about **React / Angular**
+- 💬 Ask me about **React / Angular / Go Language / Postgres / AWS / Blockchain**
 
 - 📫 How to reach me **pasanmadhuranga333@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny & caring, but Sometimes I'm Silent when I'm working cause i need concentration**
+- ⚡ Fun fact **I think I'm Funny & caring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
