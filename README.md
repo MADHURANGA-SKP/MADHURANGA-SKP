@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with [Smart Contract Development]()
 
-- 👨‍💻 All of my projects are available at [https://github.com/MADHURANGA-SKP/Per-portfolio](https://github.com/MADHURANGA-SKP/Per-portfolio)
-
 - 📝 I regularly write articles on [www.linkedin.com/in/madhurangaskp333](www.linkedin.com/in/madhurangaskp333)
 
 - 💬 Ask me about **React / Angular / Go Language / Postgres / AWS / Blockchain**
