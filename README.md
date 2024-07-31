@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasan Madhuranga</h1>
 
 # 💫 About Me:
-🎯 Explore emerging technologies and use them to craft innovative software solutions.<br>🎓 Undergraduate from the University of Jaffna Sri Lanka<br>🤖 Learning new technologies about Web Development, Blockchain development, High-level programming languages, and Backend Developmment.<br>👣 Lifelong learner, always up for a challenge code and life.<br>🛣️ Passionate about software development and Sports, Swimming, and Photography.
+🎯 Explore emerging technologies and use them to craft innovative software solutions.<br>🎓 Undergraduate from the University of Jaffna Sri Lanka<br>🤖 Learning technologies about Web Development, Blockchain, High-level programming languages, and Backend development.<br>👣 Lifelong learner, always up for a challenge code and life.<br>🛣️ Passionate about software development and Sports, Swimming, and Photography.
 
 
 ## 🌐 Socials:
