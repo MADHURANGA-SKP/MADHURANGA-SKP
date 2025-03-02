@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack, Programming languages, ADBMs and cloud technologies  
   
 
-- ⚡ Fun fact: Use brain🧠 over heart❤️, it costs nothing😂😎  
+- ⚡ Fun fact: Knowing yourself is the beginning of all wisdom.😎  
   
 
 <br/>  
