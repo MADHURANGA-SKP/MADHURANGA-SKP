@@ -221,11 +221,6 @@ const pasan: Developer = {
   ```
   
   <br/>
-  
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Made%20with-Passion-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
-  
 </div>
 
 <br/>
