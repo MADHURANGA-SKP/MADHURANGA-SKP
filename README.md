@@ -175,7 +175,7 @@ const pasan: Developer = {
   <a href="https://github.com/MADHURANGA-SKP" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pasanmadhuranga333@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -204,17 +204,35 @@ const pasan: Developer = {
 
 <br/>
 
-<!-- Support Section -->
+<!-- Contribution & Collaboration -->
 <div align="center">
-  <h3>💖 Support My Work</h3>
-  <p>If you find my projects helpful, consider giving them a ⭐</p>
   
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
+  ## 🚀 Let's Build Something Amazing Together!
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
+  
+  <br/><br/>
+  
+  ```diff
+  + 💡 Open to collaborating on innovative projects
+  + 🌟 Always excited to contribute to open source
+  + 🎯 Looking for opportunities in Web3 & Blockchain
+  + 💬 Let's connect and share knowledge!
+  ```
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with-Passion-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
+  
 </div>
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Thanks Message -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Thanks+for+visiting!+Happy+Coding!+%F0%9F%91%8B;Let's+connect+and+build+the+future!+%F0%9F%9A%80" alt="Thanks"/>
+</div>
+
+<br/>
